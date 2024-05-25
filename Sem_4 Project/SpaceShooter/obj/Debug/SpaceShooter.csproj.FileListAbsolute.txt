@@ -1,0 +1,48 @@
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.Cache
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\khoda\OneDrive\Desktop\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+G:\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+G:\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+G:\space game\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+G:\space game\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.Cache
+D:\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+D:\SpaceShooter\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+D:\SpaceShooter\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
+D:\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+D:\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+D:\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.Cache
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.csproj.ResolveComReference.cache
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.exe
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.pdb
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\bin\Debug\SpaceShooter.exe
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\bin\Debug\SpaceShooter.pdb
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.csprojResolveAssemblyReference.cache
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.Form1.resources
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+C:\Users\Jayesh\Desktop\Sem_4 Project\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.Cache
